@@ -206,7 +206,7 @@ This guide assumes that you've already started the test network by following [Hy
 Clone this repository to get the latest using the following command.
 
 ```shell
-$ git clone https://github.com/hyperledger/blockchain-explorer.git
+$ git clone https://github.com/8labteam/blockchain-explorer.git
 $ cd blockchain-explorer
 ```
 
